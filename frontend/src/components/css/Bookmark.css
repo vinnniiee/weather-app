@@ -1,0 +1,15 @@
+.bookmark-text{
+    font-size: 2rem;
+    color: white;
+    text-align: center;
+    letter-spacing: .2px;
+}
+
+.bookmarks{
+
+display: flex;
+flex-direction: column;
+justify-content: center;
+align-items: center;
+
+}
