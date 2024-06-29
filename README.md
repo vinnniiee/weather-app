@@ -5,7 +5,6 @@ Weather App is a web application that provides weather information. The backend 
 Deployed on: [Render](https://weather-app-x4v9.onrender.com/)
 
 
-
 ## Table of Contents
 
 - [Features](#features)
@@ -106,8 +105,6 @@ This project is licensed under the ISC License. See the [LICENSE](LICENSE) file 
 ### Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
-
-Deployed on: [Render](https://weather-app-x4v9.onrender.com/)
 
 ### Available Scripts
 
