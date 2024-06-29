@@ -1,7 +1,6 @@
 # Weather App
 
-Weather App is a web application that provides weather information. The backend is built using Node.js and Express, and the frontend is built using React. The application is deployed on [Render](https://weather-app-x4v9.onrender.com/).
-
+Weather App is a web application that provides weather information. The backend is built using Node.js and Express, and the frontend is built using React. 
 Deployed on: [Render](https://weather-app-x4v9.onrender.com/)
 
 
