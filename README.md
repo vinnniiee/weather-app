@@ -107,6 +107,8 @@ This project is licensed under the ISC License. See the [LICENSE](LICENSE) file 
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+Deployed on: [Render](https://weather-app-x4v9.onrender.com/)
+
 ### Available Scripts
 
 In the project directory, you can run:
